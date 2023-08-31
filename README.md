@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/article-preview-component-pure-css-hfaLmJNVcu)
+- [Live preview](https://piwkoo.github.io/article-preview-component/)
 
 ## My process
 
